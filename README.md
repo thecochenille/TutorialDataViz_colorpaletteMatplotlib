@@ -2,7 +2,7 @@
 
 This is a tutorial on how to pick colors from palettes from Matplotlib to use them on Seaborn plots.
 
-Full Jupyter notebook --> HERE
+Full Jupyter notebook --> [HERE](https://github.com/thecochenille/TutorialDataViz_colorpaletteMatplotlib/blob/d405d410dd32f5eeb6736260c7a5f72c96035f81/Color%20palettes%20in%20matplotlib,%20seaborn%20and%20pandas.ipynb)
 
 
 Resources I used:
